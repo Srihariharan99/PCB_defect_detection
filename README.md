@@ -22,4 +22,5 @@ To run the app just run the below code,
 ```
 streamlit run autoencoder_inference.py
 ```
-
+## Output
+![Output](</infer.png>)
